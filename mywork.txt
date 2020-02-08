@@ -1,0 +1,20 @@
+My associate id:
+845059
+Other team members:
+845062, 845113, 845061, 845062
+Team lead:
+845059
+My Role in team:
+1. To write the javascript validations and html validations
+2. to coordinate work between my teammates
+3. Getting the data from forms and storing in local storage and then taking the data from localstorage and showing in table
+My development files:
+1. validation.js
+2. placeorder.html
+I was strong in:
+1. HTML
+2. CSS
+3. Bootstrap
+4. Javascript Validation
+Challenges:
+1. arranging the phone input fields and making them responsive and also to change the focus automatically
